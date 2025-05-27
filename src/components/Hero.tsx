@@ -22,7 +22,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-gradient-to-r from-blue-500 to-purple-600 shadow-lg">
   <img
-    src="https://cdn.corenexis.com/i/mm/ma25/9uaCrh.png?token=aea3a18473debad8b31907f5ac294f7c"
+    src="/image.png"
     alt="Hriday Das"
     className="w-full h-full object-cover"
   />
